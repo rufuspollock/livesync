@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { Command } from 'commander'
 import { share, join } from './client.js'
 import { resolve } from 'node:path'

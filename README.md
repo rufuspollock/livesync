@@ -2,6 +2,8 @@
 
 Real-time collaboration on local files — Google Docs-style sync, but for files on your disk, in your editor.
 
+https://trylivesync.dev
+
 LiveSync is a CLI tool that lets you collaboratively edit any text file in real-time without leaving your preferred editor. It watches a file on disk, syncs changes through a relay server using CRDTs, and writes incoming changes back. Vim, VS Code, Emacs, Sublime — if your editor can save to disk, it works.
 
 **Status:** Alpha — open source, free, expect rough edges.
